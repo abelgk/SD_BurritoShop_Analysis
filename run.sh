@@ -1,1 +1,1 @@
-FLASK_APP=SD_BurritoShop_Analysis/app.py flask run
+FLASK_APP=app.py flask run
