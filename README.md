@@ -4,7 +4,7 @@ ______________________________________________________________
 
 The goal of this project is to provide burrito lovers a tool they could use to search  burrito shops around San Diego county based on users' choice of criteria such as; shop rating, shop name, or type of burrito. The tool also provides visualizations of these shops on map plots which also allows the user to choose from a list of filling types and populates the maps absed on the users selection. We have also encorporated dashboards to allow users view the San Diego county burrito shops data from different angles. 
 
-##### Visit our site using link:
+##### Visit our site using link: https://burritosofsandiego.herokuapp.com/
 _____________________________________________________________________
 
 #### Finding Data & Cleanup
